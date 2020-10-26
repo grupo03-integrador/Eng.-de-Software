@@ -2,8 +2,8 @@
 # Engenharia de Software 
 
  
- - [ ] Levantamento de Requisitos: Usuário (Funcionais e Não funcionais)
- - [ ] Levantamento de Requisitos: Sistema (Funcionais e Não funcionais)
+ - [x] Levantamento de Requisitos: Usuário (Funcionais e Não funcionais)
+ - [x] Levantamento de Requisitos: Sistema (Funcionais e Não funcionais)
  - [ ] Histórias de usuário e critérios de aceitação
 
 * UML
