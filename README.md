@@ -17,8 +17,8 @@
  - [ ] Física
  
 * Gerenciamento de Projeto
- - [ ] Kanban
- - [ ] Intrgração e Incremental
+ - [x] Kanban
+ - [ ] Integração e Incremental
  
  * Arquitetura e padrões de projeto
  - [ ] Técnicas Orientada a Objeto
