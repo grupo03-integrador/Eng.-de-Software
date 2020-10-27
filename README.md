@@ -12,8 +12,8 @@
  - [ ] Diagrama de Atividades
 
 * Modelagem de Banco de Dados
- - [ ] Conceitual
- - [ ] Lógica
+ - [x] Conceitual
+ - [x] Lógica
  - [ ] Física
  
 * Gerenciamento de Projeto
