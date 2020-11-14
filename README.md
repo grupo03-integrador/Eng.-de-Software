@@ -14,18 +14,18 @@
 * Modelagem de Banco de Dados
  - [x] Conceitual
  - [x] Lógica
- - [ ] Física
+ - [x] Física
  
 * Gerenciamento de Projeto
  - [x] Kanban
  - [ ] Integração e Incremental
  
  * Arquitetura e padrões de projeto
- - [ ] Técnicas Orientada a Objeto
- - [ ] Arquitetura Cliente/Servidor
+ - [x] Técnicas Orientada a Objeto
+ - [x] Arquitetura Cliente/Servidor
 
 * Organização do projeto no repositório
- - [ ] Linguagem Markdown
+ - [x] Linguagem Markdown
 
 ___
 
