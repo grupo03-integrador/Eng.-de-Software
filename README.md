@@ -14,7 +14,7 @@
 * Modelagem de Banco de Dados
  - [x] Conceitual
  - [x] Lógica
- - [ ] Física
+ - [x] Física
  
 * Gerenciamento de Projeto
  - [x] Kanban
