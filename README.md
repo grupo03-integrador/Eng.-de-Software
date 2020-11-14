@@ -29,5 +29,5 @@
 
 ___
 
-Grupo: eduardo Ortiz, Mayckon Padilha, Renata Zanatta e Thiago Sartorel.
+Grupo: Eduardo Ortiz, Mayckon Padilha, Renata Zanatta e Thiago Sartorel.
 Prof Thaigo Sartor
