@@ -8,7 +8,7 @@
 
 * UML
  - [ ] Diagrama de Classe
- - [ ] Diagrama de Caso de Uso
+ - [x] Diagrama de Caso de Uso
  - [ ] Diagrama de Atividades
 
 * Modelagem de Banco de Dados
