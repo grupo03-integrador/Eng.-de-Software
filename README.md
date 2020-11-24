@@ -7,7 +7,7 @@
  - [ ] Histórias de usuário e critérios de aceitação
 
 * UML
- - [ ] Diagrama de Classe
+ - [x] Diagrama de Classe
  - [x] Diagrama de Caso de Uso
  - [ ] Diagrama de Atividades
 
