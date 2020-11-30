@@ -4,7 +4,7 @@
  
  - [x] Levantamento de Requisitos: Usuário (Funcionais e Não funcionais)
  - [x] Levantamento de Requisitos: Sistema (Funcionais e Não funcionais)
- - [ ] Histórias de usuário e critérios de aceitação
+ - [X] Histórias de usuário e critérios de aceitação
 
 * UML
  - [x] Diagrama de Classe
@@ -18,7 +18,7 @@
  
 * Gerenciamento de Projeto
  - [x] Kanban
- - [ ] Integração e Incremental
+ - [X] Integração e Incremental
  
  * Arquitetura e padrões de projeto
  - [x] Técnicas Orientada a Objeto
